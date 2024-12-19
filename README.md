@@ -1,4 +1,4 @@
-# Acessing, subsetting and downloading the National Water Model v3.0 (NWMv3.0) retrospective simulation data
+# Accessing, subsetting and downloading the National Water Model v3.0 (NWMv3.0) retrospective simulation data
 National Water Model v3.0 (NWMv3.0) Retrospective Simulation Data
 This project includes several sample Python scrips and modules designed to help users easily access and download the NWMv3.0 retrospective dataset hosted on Amazon Web Services (AWS). The dataset is available in Zarr format, and the provided scripts facilitate straightforward interaction with the data.
 
