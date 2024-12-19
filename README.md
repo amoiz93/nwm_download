@@ -4,4 +4,4 @@ This project includes several sample Python scrips and modules designed to help 
 
 For more details about the dataset, including a link to the AWS bucket, visit the [NWM Archive](https://registry.opendata.aws/nwm-archive/).
 
-In this example, the scripts are designed to extract NWMv3.0 inputs (static parameters and forcings) and outputs for all the Hydrologic Unit Code 8 (HUC-8) basins for the state of Arizona. The target domain for this example is shown below [Target domain for extracting NWMv3.0 data](images/fig_az_huc8.png)
+In this example, the scripts are designed to extract NWMv3.0 inputs (static parameters and forcings) and outputs for all the Hydrologic Unit Code 8 (HUC-8) basins for the state of Arizona. The target domain for this example is shown below ![Target domain for extracting NWMv3.0 data](images/fig_az_huc8.png)
